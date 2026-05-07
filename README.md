@@ -1,5 +1,4 @@
-[Uploading автомат.md…]()
-# -#include <iostream>
+#include <iostream>
 
 enum class State { OFF, COOL, HEAT, FAN_ONLY };
 enum class Event { POWER, MODE };
